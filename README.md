@@ -3,7 +3,8 @@
 A simple and fun implementation of the classic Snake Game built with HTML, CSS, and vanilla JavaScript.
 
 <div align="center">
-  <video src="https://github.com/harsh-pro-max/SnakeGame/raw/main/assets/tutorial.mp4" width="700" controls="controls" title="Gameplay Demo"></video>
+  <video src="https://github.com/harsh-pro-max/SnakeGame/raw/main/assets/tutorial.mp4" ... >
+
 </div>
 
 ## ✨ About The Game
