@@ -2,7 +2,9 @@
 
 A simple and fun implementation of the classic Snake Game built with HTML, CSS, and vanilla JavaScript.
 
-![Snake Game Preview](assets/game-preview.gif)
+<div align="center">
+  <video src="https://github.com/harsh-pro-max/SnakeGame/raw/main/assets/tutorial.mp4" width="700" controls="controls" title="Gameplay Demo"></video>
+</div>
 
 ## ✨ About The Game
 
@@ -37,5 +39,6 @@ This project is a web-based version of the nostalgic Snake Game. The objective i
 
 4.  **Controls:**
     -   Use the **Arrow Keys** (⬆️, ⬇️, ⬅️, ➡️) to control the direction of the snake.
+
 
 Good luck, and have fun chasing that high score!
